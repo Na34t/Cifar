@@ -6,8 +6,6 @@ entrenar una red neuronal con capas
 convolucionales, usando el problema de 
 clasificación CIFAR-10.
 
-Es el código base para la práctica correspondiente. Está prohibido compartir soluciones con compañeros o estudiantes fuera del curso.
-
 El cuaderno solicitará los archivos:
 
     styles/bmh_matplotlibrc.json
